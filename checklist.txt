@@ -1,0 +1,13 @@
+--create player
+resize canvas to screen size
+make player move with wasd
+draw track
+have player move on track and slower off track
+have player start at 0 acceleration and speed and holding forward increases acceleration and speed
+have a top speed
+have start and end of track
+track time it takes to go from start to end
+make it so the start and end of the track are the same
+it ends after after three laps
+have a countdown before the race starts
+have a press to start which starts the countdown
