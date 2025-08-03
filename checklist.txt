@@ -1,13 +1,22 @@
 --create player
-resize canvas to screen size
-make player move with wasd
-draw track
-have player move on track and slower off track
-have player start at 0 acceleration and speed and holding forward increases acceleration and speed
-have a top speed
-have start and end of track
-track time it takes to go from start to end
-make it so the start and end of the track are the same
-it ends after after three laps
-have a countdown before the race starts
-have a press to start which starts the countdown
+--resize canvas to screen size
+--make player move with wasd
+--draw track
+--Rotating the sprite to face movement direction.
+--make track variable size so the player goes around the screen on any screen size
+--player car face the same direction and does not reset after moving
+--have player move on track and slower off track
+--have player start at 0 acceleration and speed and holding forward increases acceleration and speed
+--have a top speed
+--track time it takes to go from start to end
+--make it so the start and end of the track are the same
+--it ends after after three laps
+--have a countdown before the race starts
+--have a press to start which starts the countdown
+add obstacles to slow down the player
+make ai go around obstacles
+add countdown sound
+add win sound
+and lose sound
+add restart button after winning or losing
+add mobile controls
