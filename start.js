@@ -36,7 +36,7 @@ let countdownValue;
 let countdownTimerId;
 
 let music = document.getElementById('music');
-document.getElementById("music").volume = 0.5; 
+document.getElementById("music").volume = 0.5;
 
 
 function drawStartScreen() {
